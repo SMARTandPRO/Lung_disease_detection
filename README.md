@@ -157,7 +157,7 @@ model.summary()
 ])
 ```
 
-![Alt text](images/modul_2/Layers.png)
+![Alt text](images/modul_1/Layers.png)
 
 ## Compile and train the model
 ```python
