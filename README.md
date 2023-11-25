@@ -60,7 +60,7 @@ The code and associated documentation files (the "Software") are the intellectua
 
 By downloading, cloning, or using the Software, you agree to abide by the terms of this notice. Unauthorized use, modification, or sharing of the Software is a violation of copyright laws and may result in legal action.
 
-Importing necessary libraries
+## Importing necessary libraries
 ```python
 import numpy as np
 import os
@@ -157,6 +157,8 @@ model.summary()
 ])
 ```
 
+![Alt text](images/modul_2/Layers.png)
+
 ## Compile and train the model
 ```python
 model.compile(optimizer='adam',
@@ -252,17 +254,23 @@ print('The true positive rate is: ' +'{:.1%}'.format(tpr))
 ## Results for Model 1
 The model achieved an accuracy of 95.3% and a true positive rate of 97.0%. The confusion matrix and training graphs provide insight into the model's performance throughout the training process.
 
-## Model 2
+![Alt text](images/modul_1/Training_loss_and_accuracy.png)
+![Alt text](images/modul_1/Confusion_matrix.png)
+
+# Model 2
 Same as model 2, but with diferent labels.
 
 Results for Model 2:
 
 The model distinguished between bacterial and viral pneumonia with an accuracy of 75.3% and a true positive rate of 64.6%. Visualizations of the confusion matrix and accuracy over epochs illustrate the model's effectiveness.
 
+![Alt text](images/modul_2/Training_loss_and_accuracy.png)
+![Alt text](images/modul_2/Confusion_matrix.png)
+
 # Conclusion and Future Work
 The WCRAI initiative represents a significant step towards the application of AI in radiodiagnosis. With the successful development and evaluation of these models, we are paving the way for enhanced diagnostic capabilities and broader applications in medical imaging. The future of WCRAI includes expanding the dataset, refining the algorithms with the latest machine learning techniques, and integrating user feedback to continuously improve the system's performance and usability. We aim to develop features that provide explanations of the algorithm's decisions, fostering trust and transparency in AI-assisted medical diagnosis. Collaborations with medical institutions and continuous research will be instrumental in pushing the boundaries of what AI can achieve in healthcare.
 
-## For further inquiries and contributions, please reach out to the project lead:
+# For further inquiries and contributions, please reach out to the project lead:
 
 - **Juan García**  
   CEO, AI Expert & AI Manager  
