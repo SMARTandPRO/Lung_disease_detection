@@ -159,6 +159,10 @@ model.summary()
 
 ![Alt text](images/modul_1/Layers.png)
 
+<p align="center">
+  <img src="pimages/modul_1/Layers.png" alt=""/>
+</p>
+
 ## Compile and train the model
 ```python
 model.compile(optimizer='adam',
