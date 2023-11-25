@@ -156,12 +156,7 @@ model = tf.keras.models.Sequential([
 model.summary()
 ])
 ```
-
 ![Alt text](images/modul_1/Layers.png)
-
-<p align="center">
-  <img src="pimages/modul_1/Layers.png" alt=""/>
-</p>
 
 ## Compile and train the model
 ```python
@@ -268,6 +263,7 @@ Results for Model 2:
 
 The model distinguished between bacterial and viral pneumonia with an accuracy of 75.3% and a true positive rate of 64.6%. Visualizations of the confusion matrix and accuracy over epochs illustrate the model's effectiveness.
 
+![Alt text](images/modul_2/Layers.png)
 ![Alt text](images/modul_2/Training_loss_and_accuracy.png)
 ![Alt text](images/modul_2/Confusion_matrix.png)
 
