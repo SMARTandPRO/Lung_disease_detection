@@ -266,7 +266,7 @@ The model distinguished between bacterial and viral pneumonia with an accuracy o
 
 ![Alt text](images/modul_2/Layers.png)
 ![Alt text](images/modul_2/Training_loss_and_accuracy.png)
-[Alt text](images/modul_2/Confusion_matrix.png)
+![Alt text](images/modul_2/Confusion_matrix.png)
 
 # Conclusion and Future Work
 The WCRAI initiative represents a significant step towards the application of AI in radiodiagnosis. With the successful development and evaluation of these models, we are paving the way for enhanced diagnostic capabilities and broader applications in medical imaging. The future of WCRAI includes expanding the dataset, refining the algorithms with the latest machine learning techniques, and integrating user feedback to continuously improve the system's performance and usability. We aim to develop features that provide explanations of the algorithm's decisions, fostering trust and transparency in AI-assisted medical diagnosis. Collaborations with medical institutions and continuous research will be instrumental in pushing the boundaries of what AI can achieve in healthcare.
