@@ -7,7 +7,7 @@ WCRAI, standing for Wilhelm Conrad Röntgen Artificial Intelligence, is an endea
 The project aims to refine AI algorithms for identifying pneumonia, speeding up the diagnostic process, and integrating the system into the existing radiological workflow, democratizing quality diagnosis, especially in regions with a shortage of specialists.
 
 ## Ressources
-For this project, 5,388 lung X-ray images were used, obtained from the following database: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+For this project, 5.388 lung X-ray images were used, obtained from the following database: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 The images were previously checked, processed, and labeled for the project.
 
