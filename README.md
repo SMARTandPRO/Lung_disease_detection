@@ -273,7 +273,7 @@ The WCRAI initiative represents a significant step towards the application of AI
 
 # For further inquiries and contributions, please reach out to the project lead:
 
-- **Juan García**  
+  **Juan García**  
   CEO, AI Expert & AI Manager  
   SMART &PRO  
   Email: info@smartandpro.de  
