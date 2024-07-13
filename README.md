@@ -36,7 +36,7 @@ Future directions include expanding the dataset, updating the algorithm, integra
 For more information about the WCRAI project, please contact:
 Juan García
 CEO AI Expert & AI Manager
-SMART &PRO
+SMART &PRO AI Services
 info@smartandpro.de
 Tel.: (+49) 162 5371628
 Laufenburg (Germany)
@@ -52,11 +52,11 @@ We extend our gratitude to all those involved in the WCRAI project, including re
 The first model focuses on distinguishing X-ray images with pneumonia from those without it.
 
 ## Code explanation
-Copyright (c) 2023, SMART &PRO - Juan García
+Copyright (c) 2023, SMART &PRO AI Services - Juan García
 
 All rights reserved.
 
-The code and associated documentation files (the "Software") are the intellectual property of SMART &PRO and are protected under applicable copyright laws. This Software is solely for educational and research purposes. Any use of the Software for commercial purposes, including but not limited to the reproduction, distribution, display, or performance of the Software, or the use of the Software to create derivative works, is strictly prohibited without the prior written consent of SMART &PRO (Juan García).
+The code and associated documentation files (the "Software") are the intellectual property of SMART &PRO AI Services and are protected under applicable copyright laws. This Software is solely for educational and research purposes. Any use of the Software for commercial purposes, including but not limited to the reproduction, distribution, display, or performance of the Software, or the use of the Software to create derivative works, is strictly prohibited without the prior written consent of SMART &PRO AI Services (Juan García).
 
 By downloading, cloning, or using the Software, you agree to abide by the terms of this notice. Unauthorized use, modification, or sharing of the Software is a violation of copyright laws and may result in legal action.
 
@@ -275,12 +275,12 @@ The WCRAI initiative represents a significant step towards the application of AI
 
   **Juan García**  
   CEO, AI Expert & AI Manager  
-  SMART &PRO  
+  SMART &PRO AI Services
   Email: info@smartandpro.de  
   Tel.: (+49) 162 5371628  
-  Laufenburg (Germany)  
+  Mauchen (Germany)  
 
 Stay connected and follow our progress on LinkedIn and our website for the latest updates and developments. Your feedback and participation are invaluable to the evolution and success of WCRAI.
 
 LinkedIn: [Juan García](https://www.linkedin.com/in/juan-garcia-b1451729a)  
-Website: [SMART &PRO](https://smartandpro.de)
+Website: [SMART &PRO AI Services](https://smartandpro.de)
